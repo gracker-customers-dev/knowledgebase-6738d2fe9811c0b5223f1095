@@ -1,0 +1,55 @@
+projectName: 'AI in IAM: Balancing Security, Privacy, and Automation'
+jsonFilePath: ./input.json
+baseUrl: https://guptadeepak.com
+portalHeading: Explore Innovative Solutions
+portalDescription: >-
+  Discover how open-source CIAM solutions enhance security and scalability while
+  maintaining data control.
+portalTitle: Open Source CIAM Solutions
+searchPlaceholder: Search articles...
+useAlphabetsCategory: true
+homeLink: https://guptadeepak.com/
+logoLink: https://guptadeepak.com/
+ctaText: Get Started
+aboutLink: https://guptadeepak.com/about
+productsLink: https://guptadeepak.com/products
+logoImgUrl: https://guptadeepak.com/logo.png
+ctaLink: https://guptadeepak.com/get-started
+copyrightText: © 2023 Gupta Deepak. All rights reserved.
+faviconUrl: https://guptadeepak.com/favicon.ico
+googleTagManagerId: ''
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: Twitter
+    url: https://twitter.com/guptadeepak
+  - platform: LinkedIn
+    url: https://linkedin.com/in/guptadeepak
+theme:
+  primaryColor: '#4CAF50'
+  secondaryColor: '#FFC107'
+  backgroundColor: '#FFFFFF'
+  textColor: '#333333'
+  accentColor: '#FF5722'
+fonts:
+  - family: Roboto
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Open Sans
+    weights:
+      - 500
+      - 600
+      - 700
